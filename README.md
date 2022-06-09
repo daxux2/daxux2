@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daxux2
 - 👀 I’m interested in data bases
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL
 
 <!---
 daxux2/daxux2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
